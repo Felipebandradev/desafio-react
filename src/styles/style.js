@@ -12,20 +12,20 @@ const StyledMenu = styled.nav`
     text-decoration: none;
     text-transform: uppercase;
     font-weight: bold;
-    color: black;
+    color: white;
     margin: 2rem;
     padding: 1.99rem;
     border-radius:   15px 0 0 15px    ;
   }
 
   a:hover {
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: white;
   }
 
   .active {
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: white;
   }
 `; /* Fim da estilização do menu */
 

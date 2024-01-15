@@ -10,8 +10,12 @@ html {
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background: rgb(255,235,45);
-background: linear-gradient(184deg, rgba(255,235,45,1) 0%, rgba(236,127,4,1) 100%);
+  /* background: rgb(255,235,45); */
+  /* background: linear-gradient(184deg, rgba(255,235,45,1) 0%, rgba(236,127,4,1) 100%); */
+  background-image: url(https://i.pinimg.com/736x/d9/a3/16/d9a316d4a132c88f98d737d3597e0eee.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
 
